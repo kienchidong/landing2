@@ -13,11 +13,8 @@
                         <img src="../assets/images/appstore.png"/>
                     </a>-->
 
-
                     <img src="../assets/images/Untitled-2-02@2x.png" width="100%"/>
-
                     <img src="../assets/images/header-text.png" width="100%"/>
-
             </div>
         </section>
         <section class="timing ">
